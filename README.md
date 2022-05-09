@@ -2,17 +2,17 @@
 
 > Demonstration showing how audio can be sent over the blockchain.
 
-## Introduction
-
-
 Play with the [live app](https://block-audio.surge.sh/) deployed on kovan network.
+
+## Introduction
+![blockaudio1](https://user-images.githubusercontent.com/75052782/167464066-901bcce8-652f-4acc-8b26-646ba4f1bc2a.png)
 
 
 ### Installation
 
 Clone the repo:
 ```
-git clone  https://github.com/chrontast/BlockAudio
+git clone  https://github.com/chrontast/BlockAudio.git
 cd BlockAudio
 ```
 
