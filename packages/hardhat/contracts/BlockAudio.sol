@@ -1,5 +1,5 @@
 //SPDX-License-Identifier: MIT
-pragma solidity <0.9.13;
+pragma solidity ^0.8.7;
 
 
 contract BlockAudio {
