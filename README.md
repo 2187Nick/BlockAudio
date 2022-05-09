@@ -4,7 +4,21 @@
 
 Play with the [live app](https://block-audio.surge.sh/) deployed on kovan network.
 
-## Introduction
+## How to:
+Connect to Kovan test network.
+
+Press the Start button and speak. Currently it can only handle messages less than 3 seconds.
+  
+Press the Stop button. Listen to your message.
+
+Click "Send to Alice" or "Send to Bob".  Approve the transaction.
+
+Wait for the transaction to process.
+
+Click "Check" and the audio should load.
+
+Press the play button to listen to the message.
+
 ![blockaudio1](https://user-images.githubusercontent.com/75052782/167464066-901bcce8-652f-4acc-8b26-646ba4f1bc2a.png)
 
 
